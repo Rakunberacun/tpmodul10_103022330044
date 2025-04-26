@@ -34,3 +34,4 @@ C:\Users\Rakan\Documents\Telkom\SMT4\KPL\tpmodul10_103022330044\obj\Debug\net8.0
 C:\Users\Rakan\Documents\Telkom\SMT4\KPL\tpmodul10_103022330044\obj\Debug\net8.0\tpmodul10_103022330044.pdb
 C:\Users\Rakan\Documents\Telkom\SMT4\KPL\tpmodul10_103022330044\obj\Debug\net8.0\tpmodul10_103022330044.genruntimeconfig.cache
 C:\Users\Rakan\Documents\Telkom\SMT4\KPL\tpmodul10_103022330044\obj\Debug\net8.0\ref\tpmodul10_103022330044.dll
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\tpmodul10_103022330044\obj\Debug\net8.0\tpmodul10_103022330044.sourcelink.json
